@@ -3,6 +3,7 @@
 ## People to follow
 
 1. [Kathyrn Hess Bellwald](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald/)
+2. [Mikael Vejdemo-Johansson](https://mikael.johanssons.org/)
 
 ## Talks 
 
